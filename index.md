@@ -5,3 +5,7 @@
 ``` python
 print("Hello World!")
 ```
+
+- [x] Take a small step
+- [ ] Keep on
+- [ ] Succeed
